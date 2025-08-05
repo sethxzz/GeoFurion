@@ -18,7 +18,8 @@ O GeoFurion oferece uma solução robusta para rastreamento, utilizando GPS, Wi-
 
 Acesse a versão atual via navegador:
 
-🔗 [Site em desenvolvimento](#)
+🔗 https://geofurion.vercel.app
+- Site ainda em desenvolvimento, alguns botões não terão direcionamento.
 
 ---
 
